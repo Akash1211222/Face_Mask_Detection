@@ -2,7 +2,8 @@
 Face mask detection is a technology that uses computer vision and artificial intelligence to identify whether individuals in images or videos are wearing face masks. It has gained significant attention and relevance in the context of public health and safety, particularly during the COVID-19 pandemic.
 
 
-#FEW POINTS TO KNOW ABOUT THIS PROJECT
+# FEW POINTS TO KNOW ABOUT THIS PROJECT
+
 Purpose: Face mask detection is a technology used to determine whether individuals are wearing face masks in images or videos.
 
 Relevance: It has gained prominence during the COVID-19 pandemic as a tool to enforce mask-wearing policies and promote public health and safety.
